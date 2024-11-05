@@ -1,9 +1,10 @@
 # 👋 Hello! I'm Ali Shamsali
 
 ### 💻 My Skills:
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
-![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
-![TelegramBot](https://img.shields.io/badge/-TelegramBot-blue?style=flat-square&logo=telegram)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="TelegramBot" width="50" height="50"/>
